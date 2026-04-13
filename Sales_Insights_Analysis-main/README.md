@@ -1,4 +1,4 @@
-## Sales Insights Data Analysis Project By Karan Negi
+## Sales Insights Data Analysis Project By Aditya 
 
 ### Instructions to setup mysql on your local computer
 
